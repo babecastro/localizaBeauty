@@ -1,2 +1,2 @@
 # localizaBeauty
-Repo para guardar ideais do app. 
+Repo para guardar ideias do app. 
